@@ -1,7 +1,7 @@
 # `CPPMatrixLib` - A Portable Matrix Library in C++
 This is a simple matrix library, that is built to have a similar interface for matrices as compared to MATLAB or NumPy. Built as a project for [WnCC SoC '21](https://wncc-iitb.org/soc_projects/118-laxman-matrix.html).
 
-### Proficiency Test: (Deadline: 23rd March 5pm)
+### Proficiency Test:
 1.  Fork & clone [CPPMatrixLib](https://github.com/relaxxpls/CPPMatrixLib)
 2.  Go through [main.cpp](https://github.com/relaxxpls/CPPMatrixLib/blob/main/main.cpp), and try to understand how the functions and operators present.
 2.  Add a file called as `my_gauss_elim.cpp`  
