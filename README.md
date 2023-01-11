@@ -1,5 +1,5 @@
 # `CPPMatrixLib` - A Portable Matrix Library in C++
-This is a simple matrix library, that is built to have a similar interface for matrices as compared to MATLAB or NumPy. Built as a project for [WnCC SoC '21](https://wncc-iitb.org/soc_projects/118-laxman-matrix.html).
+This is a simple matrix library, that is built to have a similar interface for matrices as compared to MATLAB or NumPy. 
 
 ### Proficiency Test:
 1.  Fork & clone [CPPMatrixLib](https://github.com/relaxxpls/CPPMatrixLib)
