@@ -1,0 +1,18 @@
+#include "matrix.hpp"
+#include "matrix_utility.hpp"
+namespace strassens
+    {
+        matrix operator*=(const matrix &rhs) 
+        {
+            assert(C == rhs.R);
+            matrix res(R, rhs.C, 0);
+            matrix M11(R/2, (rhs.C)/2, 0);
+            matrix M21(R - int(R/2), (rhs.C)/2, 0);
+            matrix M12(R/2,rhs.C - int((rhs.C)/2),0);
+            matrix M22(R - int(R/2),rhs.C - int((rhs.C)/2),0);
+            
+            
+            return res;
+        }
+    }
+    
